@@ -1,5 +1,5 @@
 {
-  "name": "jmx",
+  "name": "jmx-omnimed",
   "version": "0.7.0-java11",
   "description": "Bridge library to communicate with Java applications through JMX.",
   "homepage": "http://zuazo.github.io/node-jmx",
